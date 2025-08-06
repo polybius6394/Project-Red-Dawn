@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{87297F55C4726B89}Assets/Characters/Uniforms/Suit_KLMK/Data/Suit_KLMK_rockies.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

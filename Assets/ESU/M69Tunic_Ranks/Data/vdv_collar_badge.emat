@@ -1,0 +1,5 @@
+MatPBRBasic {
+ RoughnessScale 0.772
+ BCRMap "{12355B83F73ECC36}Assets/ESU/M69Tunic_Ranks/Data/soviet_vdv_insignia_bcr.edds"
+ NMOMap "{2AEDE0112E499EA8}Assets/ESU/M69Tunic_Ranks/Data/soviet_vdv_insignia_nmo.edds"
+}

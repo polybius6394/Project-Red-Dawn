@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{F5F3DA071A6EC233}Assets/ESU/M69_Pants/Data/m69_pants_off.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

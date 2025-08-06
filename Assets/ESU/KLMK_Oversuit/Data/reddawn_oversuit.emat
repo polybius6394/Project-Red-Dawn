@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{463293557FB95C58}Assets/ESU/KLMK_Oversuit/Data/soviet_reddawn_overalls_nohood_v2_BCR.edds"
+ NMOMap "{7EEA28C7A6CE0EC6}Assets/ESU/KLMK_Oversuit/Data/soviet_reddawn_overalls_nohood_v2_NMO.edds"
+}

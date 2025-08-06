@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{A1DAC0DD2E5A94FA}Assets/ESU/M69Tunic_Ranks/Data/soviet_army_ranks_bcr.edds"
+ NMOMap "{99027B4FF72DC664}Assets/ESU/M69Tunic_Ranks/Data/soviet_army_ranks_nmo.edds"
+}

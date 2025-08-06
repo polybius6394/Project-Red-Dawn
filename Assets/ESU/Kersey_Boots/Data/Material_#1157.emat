@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{D6DA58C86B581A76}Assets/ESU/Kersey_Boots/Data/sov_sapogi_boots_v2_BCR.edds"
+ NMOMap "{EE02E35AB22F48E8}Assets/ESU/Kersey_Boots/Data/sov_sapogi_boots_v2_NMO.edds"
+}

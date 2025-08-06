@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{B919BEE61E3B8A79}Assets/ESU/M69Tunic_Ranks/Data/vdv_collar_badge.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

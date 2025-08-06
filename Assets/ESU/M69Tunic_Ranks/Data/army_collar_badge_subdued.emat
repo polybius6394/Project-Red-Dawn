@@ -1,0 +1,7 @@
+MatPBRBasic {
+ Specular 0.411 0.378 0.25 1
+ RoughnessScale 0.779
+ CavityFromAO 1
+ BCRMap "{8A16F08D3C051800}Assets/ESU/M69Tunic_Ranks/Data/soviet_army_insignia_subdue_bcr.edds"
+ NMOMap "{B2CE4B1FE5724A9E}Assets/ESU/M69Tunic_Ranks/Data/soviet_army_insignia_subdue_nmo.edds"
+}

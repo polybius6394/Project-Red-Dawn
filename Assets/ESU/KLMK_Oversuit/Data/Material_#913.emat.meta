@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{920B2C01B7F79401}Assets/ESU/KLMK_Oversuit/Data/Material_#913.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

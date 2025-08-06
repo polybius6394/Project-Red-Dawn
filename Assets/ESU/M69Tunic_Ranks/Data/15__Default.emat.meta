@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{5DD3A4963C84AC88}Assets/ESU/M69Tunic_Ranks/Data/15__Default.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

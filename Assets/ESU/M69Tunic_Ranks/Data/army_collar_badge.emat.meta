@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{52B28949E9A4F9ED}Assets/ESU/M69Tunic_Ranks/Data/army_collar_badge.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

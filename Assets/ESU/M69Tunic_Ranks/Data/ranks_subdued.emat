@@ -1,0 +1,5 @@
+MatPBRBasic {
+ Color 0.533 0.533 0.533 1
+ BCRMap "{119B10230FD4660E}Assets/ESU/M69Tunic_Ranks/Data/soviet_army_ranks_subdued_bcr.edds"
+ NMOMap "{2943ABB1D6A33490}Assets/ESU/M69Tunic_Ranks/Data/soviet_army_ranks_subdued_nmo.edds"
+}

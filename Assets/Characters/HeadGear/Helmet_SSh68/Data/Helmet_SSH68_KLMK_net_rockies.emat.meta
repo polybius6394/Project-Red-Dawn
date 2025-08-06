@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{00688FADDE1D37B9}Assets/Characters/HeadGear/Helmet_SSh68/Data/Helmet_SSH68_KLMK_net_rockies.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

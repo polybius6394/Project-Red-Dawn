@@ -1,0 +1,6 @@
+MatPBRBasic {
+ AllowUserAlphaBias 1
+ BCRMap "{C61AFA46E3550472}Assets/ESU/KLMK_Oversuit/Data/soviet_KLMK_maskveil_v2_BCR.edds"
+ OpacityMap "{70A53F4EA373F142}Assets/Characters/Basebody/Data/HeadClipping_A.edds"
+ NMOMap "{FEC241D43A2256EC}Assets/ESU/KLMK_Oversuit/Data/soviet_KLMK_maskveil_v2_NMO.edds"
+}

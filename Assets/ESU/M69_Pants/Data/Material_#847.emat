@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{BBE9EA31D7A7D6F0}Assets/ESU/M69_Pants/Data/m69_formalpants_slacks_BCR.edds"
+ NMOMap "{833151A30ED0846E}Assets/ESU/M69_Pants/Data/m69_formalpants_slacks_NMO.edds"
+}
