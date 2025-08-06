@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{AD5B2760960E1461}Assets/ESU/M69_Visor/Data/sov_officervisor_insignia_subdued.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

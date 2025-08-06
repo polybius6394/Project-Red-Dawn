@@ -1,0 +1,25 @@
+GameEntity : "{6ED66E4BF74756C0}Prefabs/Characters/HeadGear/Hat_M88_01/Hat_M88_01_base.et" {
+ ID "5112706CD4157AC7"
+ components {
+  InventoryItemComponent "{5244E4431E28A759}" {
+   Attributes SCR_ItemAttributeCollection "{52C8D6029EB6A957}" {
+    ItemDisplayName UIInfo "{52C8D6029DC1C3CB}" {
+     Name "M69 Officer Visor (Army)"
+     Description "M69 Officer Visor used from 1969 to 1991"
+    }
+    CustomAttributes {
+     PreviewRenderAttributes "{5966629ABBDBE041}" {
+      PreviewModel "{DABF02BF638FAF41}Assets/ESU/M69_Visor/M69_visor_officer.xob"
+     }
+    }
+   }
+  }
+  MeshObject "{5112706CD4157AE0}" {
+   Object "{DABF02BF638FAF41}Assets/ESU/M69_Visor/M69_visor_officer.xob"
+  }
+  BaseLoadoutClothComponent "{5112706CD4157AF8}" {
+   WornModel "{DABF02BF638FAF41}Assets/ESU/M69_Visor/M69_visor_officer.xob"
+   ItemModel "{7015813FC3774BF0}Assets/ESU/M69_Sidecap/m69_pilotka_item.xob"
+  }
+ }
+}

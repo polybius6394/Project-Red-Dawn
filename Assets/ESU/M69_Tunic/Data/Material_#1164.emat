@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{444AD2A0F7FF6B49}Assets/ESU/M69_Tunic/Data/m88_sidestrap_belt_brn_BCR.edds"
+ NMOMap "{7C9269322E8839D7}Assets/ESU/M69_Tunic/Data/m88_sidestrap_belt_brn_NMO.edds"
+}

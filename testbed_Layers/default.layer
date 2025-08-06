@@ -1,0 +1,84 @@
+GameEntity : "{08C0E9D08D00111F}Prefabs/Characters/Uniforms/ESU/Pants_M69_officer.et" {
+ coords 4918.163 28.775 11745.929
+}
+GameEntity : "{1336E7294B2CBC4E}Prefabs/Characters/Uniforms/ESU/Pants_M69_2.et" {
+ coords 4919.21 28.775 11745.883
+}
+GameEntity : "{19605AD20F769299}Prefabs/Characters/HeadGear/Hat_Balaclava_Wool_Base.et" {
+ coords 4923.273 28.775 11744.602
+}
+GameEntity : "{21B1FD31C2F75597}Prefabs/Characters/Uniforms/ESU/Jacket_M69_Midsleeve.et" {
+ coords 4924.694 28.775 11747.546
+}
+SCR_ChimeraCharacter : "{27C379543C13BCE9}Prefabs/Characters/Factions/OPFOR/USSR_Army/Airborne/Summer/Character_USSR_Airborne_Summer_Rifleman.et" {
+ coords 4927.205 28.594 11735.47
+}
+GameEntity : "{29B7420031C413DD}Prefabs/Characters/Uniforms/ESU/Jacket_M69.et" {
+ coords 4925.37 28.775 11747.542
+}
+GameEntity : "{2CEFD48BCA317B50}Prefabs/Characters/Uniforms/ESU/Jacket_M69_Off_vdv.et" {
+ coords 4921.037 28.776 11747.708
+}
+GameEntity : "{352C4298B9E49062}Prefabs/Characters/Uniforms/ESU/Pants_M69Dress_High.et" {
+ coords 4917.106 28.775 11745.711
+}
+GameEntity : "{35CCDB985689AB3D}Prefabs/Characters/HeadGear/Hat_M69Pilotka.et" {
+ coords 4919.791 28.775 11744.531
+}
+GameEntity : "{45EFBCFFF6277E3E}Prefabs/Characters/Uniforms/ESU/Jacket_M69_Off_Midsleeve.et" {
+ coords 4923.04 28.775 11747.544
+}
+GameEntity : "{4EBC51E33D97F281}Prefabs/Characters/Uniforms/Suit_KLMK/Suit_KLMK_rockies.et" {
+ coords 4926.507 28.775 11746.027
+}
+GenericEntity : "{6462B8B3FFD8C594}Prefabs/Characters/Vests/Vest_SovietHarness/Variants/Vest_SovietOfficer_Kit.et" {
+ coords 4926.095 28.775 11747.162
+}
+GameEntity : "{6D4C72F242150F4F}Prefabs/Characters/Handwear/Gloves/Gloves_3finger_winter.et" {
+ coords 4925.078 28.775 11744.512
+}
+GameEntity : "{6D81E0083D6825BD}Prefabs/Characters/Uniforms/ESU/Jacket_M69_Off_Midsleeve_vdv.et" {
+ coords 4920.504 28.775 11747.581
+}
+GameEntity : "{760F5CF0BAEB2E8F}Prefabs/Characters/HeadGear/Hat_M69Visor_Army_Officer.et" {
+ coords 4919.139 28.775 11744.611
+}
+GameEntity : "{8BECDC22D6A41893}Prefabs/Characters/Uniforms/ESU/Jacket_M69_vdv.et" {
+ coords 4922.529 28.775 11747.613
+}
+GameEntity : "{8F482DC3DDBDF84B}Prefabs/Characters/Handwear/Gloves/Gloves_Leather_Brown.et" {
+ coords 4924.115 28.775 11744.58
+}
+GameEntity : "{9B54A617DC51C7D1}Prefabs/Characters/HeadGear/Hat_Balaclava_Wool_white.et" {
+ coords 4922.396 28.775 11744.62
+}
+GameEntity : "{A0B779F70D5FD113}Prefabs/Characters/HeadGear/Helmet_SSh68_01/Helmet_SSh68_01_cover_KLMK_net_rockies.et" {
+ coords 4918.292 28.775 11744.664
+}
+GameEntity : "{B3DF33C07C2D19DF}Prefabs/Characters/HeadGear/Hat_M69Visor_Army_Officer_vdv.et" {
+ coords 4918.774 28.775 11744.618
+}
+GameEntity : "{C0BA91AFCE021A28}Prefabs/Characters/Uniforms/ESU/KLMK_Suit_Hood_Up.et" {
+ coords 4920.382 28.775 11745.954
+}
+GenericEntity : "{CCF51D153E1B66E7}Prefabs/Characters/Footwear/KerseyBoots_Soviet_01.et" {
+ coords 4925.89 28.775 11744.518
+}
+GameEntity : "{D92FD141C036F7BE}Prefabs/Characters/Uniforms/ESU/Jacket_M69_Midsleeve_vdv.et" {
+ coords 4921.729 28.775 11747.525
+}
+GameEntity : "{E04B1A1E531D3359}Prefabs/Characters/HeadGear/Helmet_SSh68_01/Helmet_SSh68_01_cover_KLMK_rockies.et" {
+ coords 4917.601 28.775 11744.392
+}
+GameEntity : "{E42065E912CE9DAE}Prefabs/Characters/Uniforms/ESU/Jacket_M69_Off.et" {
+ coords 4923.977 28.775 11747.644
+}
+GameEntity : "{E4BB7173E022B239}Prefabs/Characters/HeadGear/Hat_Beret_VDV.et" {
+ coords 4921.609 28.775 11744.554
+}
+GameEntity : "{E63EBCA55255F0A8}Prefabs/Characters/HeadGear/Hat_Beret_VDV_Guards.et" {
+ coords 4920.826 28.776 11744.45
+}
+GameEntity : "{F5520D9389AFA4DA}Prefabs/Characters/Uniforms/ESU/KLMK_Suit_Hood_Down.et" {
+ coords 4921.526 28.775 11745.992
+}

@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{49F2C81C06DB479C}Assets/ESU/Sov_Equipment/M69_Officer_Mapcase/Data/sov_mapcase_BCR.edds"
+ NMOMap "{712A738EDFAC1502}Assets/ESU/Sov_Equipment/M69_Officer_Mapcase/Data/sov_mapcase_NMO.edds"
+}

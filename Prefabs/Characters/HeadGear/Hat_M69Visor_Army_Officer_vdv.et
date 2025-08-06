@@ -1,0 +1,25 @@
+GameEntity : "{760F5CF0BAEB2E8F}Prefabs/Characters/HeadGear/Hat_M69Visor_Army_Officer.et" {
+ ID "5112706CD4157AC7"
+ components {
+  InventoryItemComponent "{5244E4431E28A759}" {
+   Attributes SCR_ItemAttributeCollection "{52C8D6029EB6A957}" {
+    ItemDisplayName UIInfo "{52C8D6029DC1C3CB}" {
+     Name "M69 Officer Visor (VDV)"
+    }
+   }
+  }
+  MeshObject "{5112706CD4157AE0}" {
+   Materials {
+    MaterialAssignClass "{660B76E17D22E429}" {
+     SourceMaterial "Material_#406"
+     AssignedMaterial "{78D4FA902B0EBC9A}Assets/ESU/M69_Visor/Data/soviet_visorofficer_airborne.emat"
+    }
+   }
+  }
+  BaseLoadoutClothComponent "{5112706CD4157AF8}" {
+   WornMaterialsOverride {
+    "{78D4FA902B0EBC9A}Assets/ESU/M69_Visor/Data/soviet_visorofficer_airborne.emat"
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{33FBE5CEE861B137}Assets/ESU/M69_Tunic/Data/m69_tunic_officer.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

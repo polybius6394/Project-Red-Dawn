@@ -1,0 +1,10 @@
+GameEntity : "{507AF9B48E84A616}Prefabs/Characters/Uniforms/ESU/m69_sovietarmy_generic.et" {
+ ID "660B5C44779D32FC"
+ components {
+  BaseLoadoutClothComponent "{660B5C44779D323C}" {
+   WornMaterialsOverride {
+    "{8FBC3A6E946F056E}Common/Materials/Default_Transparent.emat" "{90982B85087ED47E}Assets/ESU/M69Tunic_Ranks/Data/ranks_vdv.emat" "" "{E3B3F9BC63B76D95}Assets/ESU/M69Tunic_Ranks/Data/airborne_sleeve_badge.emat"
+   }
+  }
+ }
+}

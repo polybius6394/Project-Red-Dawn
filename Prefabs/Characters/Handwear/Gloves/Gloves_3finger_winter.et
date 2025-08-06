@@ -1,0 +1,20 @@
+GameEntity : "{43157D90F1FE5C73}Prefabs/Characters/Handwear/Gloves_Wool_01/Gloves_Wool_01_base.et" {
+ ID "5DF2774398EBD275"
+ components {
+  InventoryItemComponent "{5E38A40D482770CE}" {
+   Attributes SCR_ItemAttributeCollection "{5E38A40D4BC49A36}" {
+    ItemDisplayName UIInfo "{5E38A40D4C298215}" {
+     Name "3 Finger Winter Gloves"
+     Description "A pair of 3 fingered winter gloves."
+    }
+   }
+  }
+  MeshObject "{5DF2774268A6E46B}" {
+   Object "{52EB93A622433EFF}Assets/ESU/Sov_Gloves/sov_officer_leathergloves_item.xob"
+  }
+  BaseLoadoutClothComponent "{5DF2774268A6E4AA}" {
+   WornModel "{9C8465ED2670F08A}Assets/ESU/Sov_Gloves/sov_3finger_wintergloves.xob"
+   ItemModel "{52EB93A622433EFF}Assets/ESU/Sov_Gloves/sov_officer_leathergloves_item.xob"
+  }
+ }
+}

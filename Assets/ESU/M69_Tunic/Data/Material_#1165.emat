@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{B267C928D846A10C}Assets/ESU/M69_Tunic/Data/m88_2prong_belt_brn_BCR.edds"
+ NMOMap "{8ABF72BA0131F392}Assets/ESU/M69_Tunic/Data/m88_2prong_belt_brn_NMO.edds"
+}

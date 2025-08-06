@@ -1,0 +1,29 @@
+GameEntity : "{CF221A167DE87E57}Prefabs/Characters/Uniforms/Suit_KLMK/Suit_KLMK.et" {
+ ID "5104869D194C6243"
+ components {
+  MeshObject "{5104869D194C6262}" {
+   Materials {
+    MaterialAssignClass "{660A45A32D534538}" {
+     SourceMaterial "Suit_KLMK_Item"
+     AssignedMaterial "{6E675040209064F8}Assets/Characters/Uniforms/Suit_KLMK/Data/Suit_KLMK_rockies_item.emat"
+    }
+   }
+  }
+  SCR_UniversalInventoryStorageComponent "{5222CB01D5B9A306}" {
+   Attributes SCR_ItemAttributeCollection "{5222CB01245CDF32}" {
+    ItemDisplayName UIInfo "{5222CB0109A04AB2}" {
+     Name "Rocky Mountain Oversuit"
+     Description "Structurally identical to the KLMK oversuit, the Rocky Mountain Oversuit is issued to Soviet Airborne units, and uses a pattern designed specifically for use in the Rocky Mountains during Operation Red Dawn."
+    }
+   }
+  }
+  BaseLoadoutClothComponent "{5104869D194C627A}" {
+   WornMaterialsOverride {
+    "{87297F55C4726B89}Assets/Characters/Uniforms/Suit_KLMK/Data/Suit_KLMK_rockies.emat"
+   }
+   ItemMaterialsOverride {
+    "{6E675040209064F8}Assets/Characters/Uniforms/Suit_KLMK/Data/Suit_KLMK_rockies_item.emat"
+   }
+  }
+ }
+}

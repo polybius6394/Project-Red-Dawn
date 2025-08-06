@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{5B9B5A690CD6F2A5}Assets/ESU/Sov_Gloves/Data/Basebody_01_Male_Arms.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

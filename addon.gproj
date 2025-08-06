@@ -1,0 +1,22 @@
+GameProject {
+ ID "ProjectRedDawn"
+ GUID "66092591349B9B4F"
+ TITLE "Project Red Dawn"
+ Dependencies {
+  "65E457552952F565" "58D0FB3206B6F859" "62264496494D0FC8" "62A711001B8FDEEA" "61BD6595183FCEBD" "61344BDC155A5A28" "62A711001B8FDEEA"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}

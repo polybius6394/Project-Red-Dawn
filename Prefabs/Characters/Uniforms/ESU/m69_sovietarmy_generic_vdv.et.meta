@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{23862FE86CBFF6F3}Prefabs/Characters/Uniforms/ESU/m69_sovietarmy_generic_vdv.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

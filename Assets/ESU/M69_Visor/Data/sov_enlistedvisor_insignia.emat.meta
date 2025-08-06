@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{95FD30B2D2336374}Assets/ESU/M69_Visor/Data/sov_enlistedvisor_insignia.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

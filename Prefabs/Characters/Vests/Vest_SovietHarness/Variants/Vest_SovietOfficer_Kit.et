@@ -1,0 +1,59 @@
+GenericEntity : "{08155E701A94961F}Prefabs/Characters/Vests/Vest_SovietHarness/Vest_SovietHarness_assembled_base.et" {
+ ID "50D8C49B3558F152"
+ components {
+  ClothNodeStorageComponent "{5CE0BD449244C3E1}" {
+   Attributes SCR_ItemAttributeCollection "{5510AD9F02223F36}" {
+    ItemDisplayName UIInfo "{5510AD9F02223FEC}" {
+     Name "Formal Officer Kit"
+     Description "#AR-LBS_Harness_MG_Description"
+    }
+    ItemPhysAttributes ItemPhysicalAttributes "{5510AD9F02223F81}" {
+     ItemDimensions 15 15 15
+     ItemVolume 2050
+    }
+   }
+   UseCapacityCoefficient 0
+   MaxCumulativeVolume 2050
+   MaxItemSize 15 15 15
+  }
+  BaseLoadoutClothComponent "{5312D798A71DFBB1}" {
+   Slots {
+    LoadoutSlotInfo Suspenders {
+     Enabled 0
+    }
+    LoadoutSlotInfo GrenadePouch {
+     Offset 0 0 0
+     Angles 0 0 0
+     Enabled 0
+     Prefab "{A7EF0103428D82BC}Prefabs/Characters/Vests/Vest_SovietHarness/Mapcase_SovietOfficer.et"
+     DeflatedOffset 0 0 0
+     DeflatedAngles 0 0 0
+    }
+    LoadoutSlotInfo MagPouch_6Sh46 {
+     Offset 0.1323 -0.0188 0.1104
+     Prefab "{50084B2B2B8004FA}Prefabs/Items/Equipment/Accessories/Holster_PM/Holster_PM.et"
+     DeflatedOffset 0.1975 0.0296 0.0619
+     DeflatedAngles -4.5006 65.0257 -2.2939
+    }
+    LoadoutSlotInfo Canteen {
+     Enabled 0
+    }
+    LoadoutSlotInfo Etool {
+     PivotID ""
+     Enabled 0
+    }
+    LoadoutSlotInfo Bayonet {
+     Enabled 0
+    }
+    LoadoutSlotInfo Mapcase {
+     Prefab "{A7EF0103428D82BC}Prefabs/Characters/Vests/Vest_SovietHarness/Mapcase_SovietOfficer.et"
+    }
+   }
+   WornModel "{547C47A76E24BCA2}Assets/ESU/M69_Tunic/m69_officer_belt_wstrap.xob"
+   ItemModel "{ACAE8AB157C7B9E6}Assets/Characters/Vests/Vest_SovietHarness/Vest_SovietHarness_Belt_item.xob"
+   DepthLeft 0.02
+   DepthRight 0.03
+   DeflatedModel "{547C47A76E24BCA2}Assets/ESU/M69_Tunic/m69_officer_belt_wstrap.xob"
+  }
+ }
+}

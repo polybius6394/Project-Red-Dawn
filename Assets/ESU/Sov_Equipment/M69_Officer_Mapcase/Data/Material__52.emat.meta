@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{3D23FA92CF99A8D4}Assets/ESU/Sov_Equipment/M69_Officer_Mapcase/Data/Material__52.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

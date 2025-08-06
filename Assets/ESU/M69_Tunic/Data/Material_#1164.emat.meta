@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{C3FBF9E0DD0F9572}Assets/ESU/M69_Tunic/Data/Material_#1164.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

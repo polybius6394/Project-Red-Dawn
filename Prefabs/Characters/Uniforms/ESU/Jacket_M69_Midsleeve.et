@@ -1,0 +1,33 @@
+GameEntity : "{E44990162EBC47B7}Prefabs/Characters/Uniforms/Jacket_M88_base.et" {
+ ID "5104869D194C6243"
+ components {
+  SCR_UniversalInventoryStorageComponent "{5222CB01D5B9A306}" {
+   Attributes SCR_ItemAttributeCollection "{5222CB01245CDF32}" {
+    ItemDisplayName UIInfo "{5222CB0109A04AB2}" {
+     Name "M69 Field Tunic (Army, Flipped Cuffs)"
+     Description "An M69 Field Tunic with an enlisted belt used from 1969 to 1989"
+    }
+    CustomAttributes {
+     PreviewRenderAttributes "{555292467DA11B7C}" {
+      PreviewModel "{45BC80F5B0930B5A}Assets/ESU/M69_Tunic/M69_Tunic_blank_v2_rolled.xob"
+     }
+    }
+   }
+  }
+  BaseLoadoutClothComponent "{5104869D194C627A}" {
+   Slots {
+    LoadoutSlotInfo DummyBelt {
+     Prefab "{F928D90B6E4B9166}Prefabs/Characters/Vests/Vest_SovietHarness/Vest_SovietHarness_belt_dummy.et"
+    }
+    LoadoutSlotInfo Ranks : DummyBelt {
+     Prefab "{507AF9B48E84A616}Prefabs/Characters/Uniforms/ESU/m69_sovietarmy_generic.et"
+    }
+   }
+   WornModel "{45BC80F5B0930B5A}Assets/ESU/M69_Tunic/M69_Tunic_blank_v2_rolled.xob"
+   WornMaterialsOverride {
+    "{E786A28FB3D5222F}Assets/ESU/M69_Tunic/Data/m69_tunic.emat"
+   }
+   DeflatedModel "{45BC80F5B0930B5A}Assets/ESU/M69_Tunic/M69_Tunic_blank_v2_rolled.xob"
+  }
+ }
+}

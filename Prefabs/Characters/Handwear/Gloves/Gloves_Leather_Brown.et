@@ -1,0 +1,20 @@
+GameEntity : "{43157D90F1FE5C73}Prefabs/Characters/Handwear/Gloves_Wool_01/Gloves_Wool_01_base.et" {
+ ID "5DF2774398EBD275"
+ components {
+  InventoryItemComponent "{5E38A40D482770CE}" {
+   Attributes SCR_ItemAttributeCollection "{5E38A40D4BC49A36}" {
+    ItemDisplayName UIInfo "{5E38A40D4C298215}" {
+     Name "Leather Officer Gloves"
+     Description "A pair of brown leather officer gloves, Used for winter operations or to keep your hands clean."
+    }
+   }
+  }
+  MeshObject "{5DF2774268A6E46B}" {
+   Object "{52EB93A622433EFF}Assets/ESU/Sov_Gloves/sov_officer_leathergloves_item.xob"
+  }
+  BaseLoadoutClothComponent "{5DF2774268A6E4AA}" {
+   WornModel "{4E24B46D82269216}Assets/ESU/Sov_Gloves/sov_officer_leathergloves.xob"
+   ItemModel "{52EB93A622433EFF}Assets/ESU/Sov_Gloves/sov_officer_leathergloves_item.xob"
+  }
+ }
+}

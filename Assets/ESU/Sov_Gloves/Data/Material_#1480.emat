@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{2BBC95D288367183}Assets/ESU/Sov_Gloves/Data/leather_fingerless_gloves_v2_BCR.edds"
+ NMOMap "{13642E405141231D}Assets/ESU/Sov_Gloves/Data/leather_fingerless_gloves_v2_NMO.edds"
+}

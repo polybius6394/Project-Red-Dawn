@@ -1,0 +1,29 @@
+GameEntity : "{DD35D5EBA6364E77}Prefabs/Characters/HeadGear/Helmet_SSh68_01/Helmet_SSh68_01_cover_KLMK.et" {
+ ID "50D4E2187B1C4408"
+ components {
+  InventoryItemComponent "{5244E4431E28A759}" {
+   Attributes SCR_ItemAttributeCollection "{52C8D60155B2B512}" {
+    ItemDisplayName UIInfo "{52C8D6014BB412DD}" {
+     Name "SSh-68 (Rocky Mountain Cover)"
+     Description "A steel SSh-68 helmet, with a cover specifically produced for Operation Red Dawn, and primarily used by paratroopers."
+    }
+   }
+  }
+  MeshObject "{5112706CD4157AE0}" {
+   Materials {
+    MaterialAssignClass "{660B14DCCE1499AD}" {
+     SourceMaterial "Helmet_SSH68_KLMK"
+     AssignedMaterial "{CC4B648E272E3229}Assets/Characters/HeadGear/Helmet_SSh68/Data/Helmet_SSH68_KLMK_rockies.emat"
+    }
+   }
+  }
+  BaseLoadoutClothComponent "{5112706CD4157AF8}" {
+   WornMaterialsOverride {
+    "{CC4B648E272E3229}Assets/Characters/HeadGear/Helmet_SSh68/Data/Helmet_SSH68_KLMK_rockies.emat"
+   }
+   ItemMaterialsOverride {
+    "{CC4B648E272E3229}Assets/Characters/HeadGear/Helmet_SSh68/Data/Helmet_SSH68_KLMK_rockies.emat"
+   }
+  }
+ }
+}

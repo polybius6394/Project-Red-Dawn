@@ -1,0 +1,5 @@
+MatPBRBasic {
+ Color 0.533 0.533 0.533 1
+ BCRMap "{10C07EF389FC7100}Assets/ESU/M69_Tunic/Data/soviet_m69_tunic_open_retopo_bcr.edds"
+ NMOMap "{2818C561508B239E}Assets/ESU/M69_Tunic/Data/soviet_m69_tunic_open_retopo_nmo.edds"
+}

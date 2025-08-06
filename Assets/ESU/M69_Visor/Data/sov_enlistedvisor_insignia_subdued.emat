@@ -1,0 +1,6 @@
+MatPBRBasic {
+ AllowUserAlphaBias 1
+ BCRMap "{EE6C945745CB290D}Assets/ESU/M69_Visor/Data/soviet_enlistedhat_insignia_subdue_bcr.edds"
+ OpacityMap "{70A53F4EA373F142}Assets/Characters/Basebody/Data/HeadClipping_A.edds"
+ NMOMap "{D6B42FC59CBC7B93}Assets/ESU/M69_Visor/Data/soviet_enlistedhat_insignia_subdue_nmo.edds"
+}

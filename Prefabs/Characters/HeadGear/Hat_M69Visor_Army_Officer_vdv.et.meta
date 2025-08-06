@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{B3DF33C07C2D19DF}Prefabs/Characters/HeadGear/Hat_M69Visor_Army_Officer_vdv.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{F5520D9389AFA4DA}Prefabs/Characters/Uniforms/ESU/KLMK_Suit_Hood_Down.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

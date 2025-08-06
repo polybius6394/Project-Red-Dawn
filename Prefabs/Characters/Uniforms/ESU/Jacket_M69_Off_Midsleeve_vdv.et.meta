@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{6D81E0083D6825BD}Prefabs/Characters/Uniforms/ESU/Jacket_M69_Off_Midsleeve_vdv.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

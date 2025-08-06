@@ -1,0 +1,25 @@
+GameEntity : "{6ED66E4BF74756C0}Prefabs/Characters/HeadGear/Hat_M88_01/Hat_M88_01_base.et" {
+ ID "5112706CD4157AC7"
+ components {
+  InventoryItemComponent "{5244E4431E28A759}" {
+   Attributes SCR_ItemAttributeCollection "{52C8D6029EB6A957}" {
+    ItemDisplayName UIInfo "{52C8D6029DC1C3CB}" {
+     Name "VDV Guards Beret"
+     Description "a Sky blue Beret with a Guards patch sewn on the side."
+    }
+    CustomAttributes {
+     PreviewRenderAttributes "{5966629ABBDBE041}" {
+      PreviewModel "{A553B8D439471683}Assets/ESU/Sov_Beret/VDV_Beret_Guards.xob"
+     }
+    }
+   }
+  }
+  MeshObject "{5112706CD4157AE0}" {
+   Object "{6DEA4656C450F2FE}Assets/ESU/Sov_Beret/VDV_Beret_item.xob"
+  }
+  BaseLoadoutClothComponent "{5112706CD4157AF8}" {
+   WornModel "{A553B8D439471683}Assets/ESU/Sov_Beret/VDV_Beret_Guards.xob"
+   ItemModel "{6DEA4656C450F2FE}Assets/ESU/Sov_Beret/VDV_Beret_item.xob"
+  }
+ }
+}

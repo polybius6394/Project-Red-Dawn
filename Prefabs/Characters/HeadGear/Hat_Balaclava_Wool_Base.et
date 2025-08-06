@@ -1,0 +1,44 @@
+GameEntity : "{17F335BF60DD2550}Prefabs/Characters/Core/Headgear_Base.et" {
+ ID "5112706CD4157AC7"
+ components {
+  InventoryItemComponent "{5244E4431E28A759}" {
+   Attributes SCR_ItemAttributeCollection "{660A45A6F44F7037}" {
+    ItemDisplayName UIInfo "{660A45A6F44F703E}" {
+     Name "Wool Balaclava"
+     Description "A wool face covering to keep you warm during the winter."
+    }
+    ItemPhysAttributes ItemPhysicalAttributes "{660A45A6F44F7039}" {
+     Weight 0.15
+     SizeSetupStrategy Manual
+     ItemVolume 250
+    }
+    CustomAttributes {
+     PreviewRenderAttributes "{660A45A6F44F7025}" {
+      CameraOrbitAngles -25 25 0
+      CameraDistanceToItem 1.85
+      FOV 10
+     }
+    }
+   }
+  }
+  MeshObject "{5112706CD4157AE0}" {
+   Object "{87C1FD9410BAD0DE}Assets/ESU/Wool_Balaclava/wool_balaclava_brown_item.xob"
+  }
+  BaseLoadoutClothComponent "{5112706CD4157AF8}" {
+   AreaType LoadoutHeadCoverArea "{660A45A6F44F7050}" {
+   }
+   WornModel "{C52ED2FDF07341BA}Assets/ESU/Wool_Balaclava/wool_balaclava_brown.xob"
+   ItemModel "{87C1FD9410BAD0DE}Assets/ESU/Wool_Balaclava/wool_balaclava_brown_item.xob"
+  }
+  ActionsManagerComponent "{5112706CD4157AC9}" {
+   ActionContexts {
+    UserActionContext "{5112706CD4157AF3}" {
+     Position PointInfo "{5112706CD4157AF0}" {
+      Offset 0 0.1 0
+     }
+    }
+   }
+  }
+ }
+ coords 0.188 3.881 2.333
+}

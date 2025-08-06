@@ -1,0 +1,24 @@
+GameEntity : "{6ED66E4BF74756C0}Prefabs/Characters/HeadGear/Hat_M88_01/Hat_M88_01_base.et" {
+ ID "5112706CD4157AC7"
+ components {
+  InventoryItemComponent "{5244E4431E28A759}" {
+   Attributes SCR_ItemAttributeCollection "{52C8D6029EB6A957}" {
+    ItemDisplayName UIInfo "{52C8D6029DC1C3CB}" {
+     Name "M69 Pilotka"
+    }
+    CustomAttributes {
+     PreviewRenderAttributes "{5966629ABBDBE041}" {
+      PreviewModel "{A20260B909D0FC10}Assets/ESU/M69_Sidecap/m69_pilotka.xob"
+     }
+    }
+   }
+  }
+  MeshObject "{5112706CD4157AE0}" {
+   Object "{A20260B909D0FC10}Assets/ESU/M69_Sidecap/m69_pilotka.xob"
+  }
+  BaseLoadoutClothComponent "{5112706CD4157AF8}" {
+   WornModel "{A20260B909D0FC10}Assets/ESU/M69_Sidecap/m69_pilotka.xob"
+   ItemModel "{7015813FC3774BF0}Assets/ESU/M69_Sidecap/m69_pilotka_item.xob"
+  }
+ }
+}

@@ -1,0 +1,10 @@
+MatPBRMulti {
+ GlobalMCRMap "{F2EED6B6E9660D99}Assets/ESU/M69_Tunic/Data/soviet_uniform_m69_v2_retopo_off_bcr.edds"
+ VFXMap "{FC07EDB90243732F}Assets/ESU/M69_Tunic/Data/soviet_uniform_m69_v2_retopo_wound_vfx.edds"
+ GlobalNMOMap "{9224912E6A807209}Assets/ESU/M69_Tunic/Data/soviet_uniform_m69_v2_retopo_nmo.edds"
+ DirtUserOpacity 1
+ DirtOpacity 3
+ DirtRoughness 0.919
+ DirtBCRMap "{C632E1CC2DC204F3}Assets/ESU/M69_Tunic/Data/soviet_uniform_m69_v2_retopo_bloody_BCR.edds"
+ Color_1 0.533 0.533 0.533 1
+}

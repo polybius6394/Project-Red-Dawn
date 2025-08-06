@@ -1,0 +1,6 @@
+MatPBRBasic {
+ AllowUserAlphaBias 1
+ BCRMap "{C0091FCD0420AA75}Assets/ESU/M69_Visor/Data/soviet_officerhat_insignia_bcr.edds"
+ OpacityMap "{70A53F4EA373F142}Assets/Characters/Basebody/Data/HeadClipping_A.edds"
+ NMOMap "{F8D1A45FDD57F8EB}Assets/ESU/M69_Visor/Data/soviet_officerhat_insignia_nmo.edds"
+}

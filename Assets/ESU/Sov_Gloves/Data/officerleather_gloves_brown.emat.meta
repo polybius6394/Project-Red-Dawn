@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{2B20AB21A4884C2E}Assets/ESU/Sov_Gloves/Data/officerleather_gloves_brown.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

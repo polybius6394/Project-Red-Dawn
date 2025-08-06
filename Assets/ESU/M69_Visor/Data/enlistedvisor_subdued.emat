@@ -1,0 +1,8 @@
+MatPBRBasic {
+ Color 0.533 0.533 0.533 1
+ AllowUserAlphaBias 1
+ DisableUserAphaInShadow 1
+ BCRMap "{2A0611F93163A33E}Assets/ESU/M69_Visor/Data/soviet_visor_army_subdued_BCR.edds"
+ OpacityMap "{70A53F4EA373F142}Assets/Characters/Basebody/Data/HeadClipping_A.edds"
+ NMOMap "{12DEAA6BE814F1A0}Assets/ESU/M69_Visor/Data/soviet_visor_army_subdued_NMO.edds"
+}

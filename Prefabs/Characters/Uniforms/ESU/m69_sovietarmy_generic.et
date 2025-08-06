@@ -1,0 +1,70 @@
+GameEntity {
+ ID "660B5C44779D32FC"
+ components {
+  SignalsManagerComponent "{660B5C44779D3217}" {
+  }
+  SoundComponent "{660B5C44779D321B}" {
+   Filenames {
+    "{927BE973F8A2D7FA}Sounds/Items/_SharedData/PickUp/Items_PickUp_Cloth.acp" "{F62001ED6E9FA253}Sounds/Items/_SharedData/Drop/Items_Drop_Clothes.acp"
+   }
+   DistanceManagement 0
+  }
+  InventoryItemComponent "{660B5C44779D3206}" {
+   Attributes SCR_ItemAttributeCollection "{660B5C44779D3204}" {
+    ItemDisplayName UIInfo "{660B5C44779D3202}" {
+     Name "Lieutenant Shoulderboards (M69 / Everyday)"
+     Description "Lieutenant Shoulderboards for an M69 tunic."
+    }
+    ItemPhysAttributes ItemPhysicalAttributes "{660B5C44779D320F}" {
+     Weight 0.39
+     SizeSetupStrategy Manual
+     ItemDimensions 1 1 1
+    }
+    CustomAttributes {
+     PreviewRenderAttributes "{660B5C44779D320B}" {
+      CameraOrbitAngles -25 25 0
+      CameraDistanceToItem 2
+      FOV 10
+      PreviewWornModel 1
+     }
+    }
+   }
+  }
+  MeshObject "{660B5C44779D3236}" {
+   Object "{DDFD732C60D721C8}Assets/ESU/M69Tunic_Ranks/M69_soviet_army_en_1_item.xob"
+  }
+  ParametricMaterialInstanceComponent "{660B5C44779D3234}" {
+   UserParamAlpha 0
+   ApplyPropertiesWhenMeshChanged 1
+  }
+  RigidBody "{660B5C44779D323F}" {
+   Mass 1.5
+   ModelGeometry 1
+   Static 1
+  }
+  BaseLoadoutClothComponent "{660B5C44779D323C}" {
+   WornModel "{1E6B8720335EF45C}Assets/ESU/M69Tunic_Ranks/M69_soviet_army_en_0.xob"
+   WornMaterialsOverride {
+    "{8FBC3A6E946F056E}Common/Materials/Default_Transparent.emat" "" "" ""
+   }
+   ItemModel "{DDFD732C60D721C8}Assets/ESU/M69Tunic_Ranks/M69_soviet_army_en_1_item.xob"
+  }
+  ActionsManagerComponent "{660B5C44779D3238}" {
+   ActionContexts {
+    UserActionContext "{660B5C44779D3226}" {
+     ContextName "default"
+     Position PointInfo "{660B5C44779D322C}" {
+     }
+    }
+   }
+   additionalActions {
+    SCR_EquipClothAction "{52E6EC76F51E12DE}" : "{83B98F1A96591AC6}Prefabs/Characters/Core/Actions/EquipClothAction.conf" {
+    }
+    SCR_PickUpItemAction "{52E6EC76F43FCD58}" : "{F39A4E9B190C1846}Prefabs/Characters/Core/Actions/PickUpItemAction.conf" {
+    }
+   }
+  }
+  RplComponent "{660B5C44779D3256}" {
+  }
+ }
+}

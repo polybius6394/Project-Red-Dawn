@@ -1,0 +1,4 @@
+MatPBRBasic {
+ BCRMap "{AEAED5FE23B65B36}Assets/ESU/Sov_Gloves/Data/sov_officer_gloves_brn_BCR.edds"
+ NMOMap "{96766E6CFAC109A8}Assets/ESU/Sov_Gloves/Data/sov_officer_gloves_brn_NMO.edds"
+}

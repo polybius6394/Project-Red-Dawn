@@ -1,0 +1,5 @@
+MatPBRBasic {
+ Color 0.423 0.031 0.031 1
+ BCRMap "{116113F01B8E8D92}Assets/ESU/Sov_Pipping/Data/sov_pipping_BCR.edds"
+ NMOMap "{29B9A862C2F9DF0C}Assets/ESU/Sov_Pipping/Data/sov_pipping_NMO.edds"
+}

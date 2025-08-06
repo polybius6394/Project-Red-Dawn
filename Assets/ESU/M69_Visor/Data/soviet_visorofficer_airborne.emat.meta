@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{78D4FA902B0EBC9A}Assets/ESU/M69_Visor/Data/soviet_visorofficer_airborne.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}
